@@ -16,5 +16,5 @@ Proyecto nº1(WIP)
 .CSS
 ]
 
-~(Enlace Github -> https://github.com/MADROCHA/F5-Peliculas.git  >)
+~(Enlace Github -> https://github.com/MADROCHA 
 
